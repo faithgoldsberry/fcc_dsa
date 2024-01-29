@@ -1,0 +1,11 @@
+{
+  "name": "fcc_dsa",
+  "version": "1.0.0",
+  "description": "This is a repository of our solutions to the Free Code Camp Interview Prep Course. https://www.freecodecamp.org/learn/coding-interview-prep/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
