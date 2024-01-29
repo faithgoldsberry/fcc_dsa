@@ -1,7 +1,7 @@
 {
   "name": "fcc_dsa",
   "version": "1.0.0",
-  "description": "This is a repository of our solutions to the Free Code Camp Interview Prep Course. https://www.freecodecamp.org/learn/coding-interview-prep/",
+  "description": "These are our solutions to the FCC Data Structure and Algorithm exercises",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
