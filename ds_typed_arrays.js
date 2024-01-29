@@ -49,3 +49,8 @@ Typed arrays do not have some of the methods traditional arrays have such as .po
 First create a buffer that is 64-bytes. Then create a Int32Array typed array with a view of it called i32View.
 
 */
+
+// ----------------From Free Camp---------------------
+var buffer;
+var i32View;
+// ----------------Write your code below---------------------
