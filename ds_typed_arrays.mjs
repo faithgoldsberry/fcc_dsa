@@ -50,12 +50,16 @@ First create a buffer that is 64-bytes. Then create a Int32Array typed array wit
 
 */
 
-// ----------------From Free Camp---------------------
-/*
+// ----------------Free Code Camp---------------------
+
 var buffer;
 var i32View;
-*/
-// ----------------Write your code below---------------------
 
-var buffer = new ArrayBuffer(16);
-var i32View = new Int32Array(buffer);
+// ----------------Answer Code------------------------
+
+buffer = new ArrayBuffer(16);
+i32View = new Int32Array(buffer);
+
+// ----------------Export------------------------------
+
+export { buffer, i32View};
