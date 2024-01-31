@@ -11,5 +11,5 @@ test('Your i32View view of your buffer should be 64 bytes large.', (t) => {
 });
 
 test('Your i32View view of your buffer should be 16 elements long.', (t) => {
-  assert.equal(i32View.length, 64);
+  assert.equal(i32View.length, 16);
 });
