@@ -57,7 +57,8 @@ var i32View;
 
 // ----------------Answer Code------------------------
 
-buffer = new ArrayBuffer(16);
+var byteSize = 64;
+buffer = new ArrayBuffer(byteSize);
 i32View = new Int32Array(buffer);
 
 // ----------------Export------------------------------
