@@ -23,12 +23,8 @@ var original = homeworkStack // Added for local testing
 
 // ----------------Answer Code------------------------
 
-<<<<<<< HEAD
 homeworkStack.pop("PSY44");
 homeworkStack.push("CS50");
-=======
-delete homeworkStack[length-1];
-homeworkStack = ["BIO12","HIS80","MAT122","CS50"];
 
 // ----------------Export------------------------------
 
