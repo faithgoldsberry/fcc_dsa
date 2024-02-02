@@ -29,4 +29,3 @@ homeworkStack.push("CS50");
 // ----------------Export------------------------------
 
 export { homeworkStack, original };
->>>>>>> d5d015ceb74f75a631cd44f804ed3b531a274bda
